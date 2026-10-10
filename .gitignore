@@ -1,0 +1,11 @@
+*.bak
+*-bak
+*.bck
+*.tmp
+*.lck
+*-cache.lib
+*.kicad_prl
+.3d-shapes/
+.history/
+_autosave-*
+*~
