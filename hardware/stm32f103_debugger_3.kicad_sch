@@ -3919,7 +3919,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "64fdf44f-78e4-4b95-a9b1-3a5fac6a5b10")
+			(uuid "523ee45e-601c-44ce-be91-0556f5299cf2")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -3998,10 +3998,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9cb2de4a-7996-4311-845b-024f4df2a9b7")
+			(uuid "cfc60fb4-8aa3-4624-8583-df730f9d6f39")
 		)
 		(pin "1"
-			(uuid "f61b5dfe-abee-4dda-96ca-b9467956b1a8")
+			(uuid "48a35cf7-2d3f-4073-8aaa-65bebefdf6ff")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4080,10 +4080,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d85b574-aca6-4e92-bda6-f83c3d7d0cb9")
+			(uuid "42a67fa2-fc65-488f-a61b-bf98aeed6d02")
 		)
 		(pin "2"
-			(uuid "48714a3b-9069-4bba-b6e1-e25312ed0eda")
+			(uuid "8038a05e-0018-461c-bdfb-a9410ed8187c")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4162,10 +4162,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "72c611ee-950b-4249-853a-5a38a728b5d6")
+			(uuid "71ced2ab-129a-4b51-8e0d-607703c9ca32")
 		)
 		(pin "2"
-			(uuid "c6a91d17-892d-4f61-a997-f7fdc3f9a1f1")
+			(uuid "4b54cf39-03e5-4c72-bdcb-d2d200f900d9")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4244,22 +4244,22 @@
 			)
 		)
 		(pin "6"
-			(uuid "27d35561-8b36-4059-88c9-6579ccab7df3")
+			(uuid "7ca21765-6e51-4ab5-a187-ba37e3144519")
 		)
 		(pin "2"
-			(uuid "6eb0fb72-bff7-4283-87a9-41ff31e64b85")
+			(uuid "f2266b9f-29f1-49d9-a04d-ab42ed101972")
 		)
 		(pin "3"
-			(uuid "639d0f49-3119-44c3-8092-679b374553cd")
+			(uuid "f0cde85d-dcf0-4175-8a52-c15dc8e85649")
 		)
 		(pin "5"
-			(uuid "2fa855ea-498e-45b9-aef6-1bcf06407202")
+			(uuid "378663ae-737b-4818-8ca6-cc6c575a23e0")
 		)
 		(pin "4"
-			(uuid "790c4412-fdc6-482d-ac26-9c70b2b88066")
+			(uuid "aa438e1d-91e0-447f-bf0c-babbabf0e7d9")
 		)
 		(pin "1"
-			(uuid "6d6eb47b-1154-47c1-9937-eff9ea2bdef8")
+			(uuid "48023d5f-f57d-4618-a4fd-f33f23cd97a4")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4337,7 +4337,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ec298c4-e464-4126-b6a6-04c1726b7ca6")
+			(uuid "97fd9d0e-5352-4144-b716-0a22a957d287")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4413,10 +4413,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "50405034-6073-44c8-b0e6-73b765c85052")
+			(uuid "f4a65ee1-edd9-4340-aefe-74b55ffc934b")
 		)
 		(pin "2"
-			(uuid "10dd218c-3030-420c-ac05-f92fdab6fb0d")
+			(uuid "6459fd5e-d154-4f6b-89db-28af74b6a46b")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4496,148 +4496,148 @@
 			)
 		)
 		(pin "3"
-			(uuid "0f204862-c8bb-48f1-911a-400a265e55d2")
+			(uuid "2cc5299a-c18d-4e52-ba69-9eb7b9b65142")
 		)
 		(pin "4"
-			(uuid "a1b102ab-94c4-4b70-a3c5-ab70df238a17")
+			(uuid "d89a98ca-a068-4e92-91aa-f0a9fd03bfda")
 		)
 		(pin "2"
-			(uuid "d189cc74-7273-4866-bb7f-40e565152510")
+			(uuid "a0f07ea1-cde8-4c96-9f83-4bdd968dbb0f")
 		)
 		(pin "1"
-			(uuid "3033b66b-aef6-4e19-91fe-8acd870f69ee")
+			(uuid "0edade13-5167-42a0-a37b-d00ce667e8b8")
 		)
 		(pin "20"
-			(uuid "4ac947b2-b3c0-4265-9f47-8eae15b8870e")
+			(uuid "9454a6fd-0714-47a8-9299-3f84070836a0")
 		)
 		(pin "23"
-			(uuid "0e1dd08a-2f1d-4e6a-a001-1c16938c099f")
+			(uuid "48dfc4ef-37e8-47d6-92f4-97c81a60f8ec")
 		)
 		(pin "27"
-			(uuid "9e2f5710-59c0-483d-8f3f-1582d3a222a1")
+			(uuid "cbbd9bb0-5477-43ea-a201-26e8e698a73d")
 		)
 		(pin "21"
-			(uuid "70f2b4b6-c5be-42d5-8e3c-804467f66903")
+			(uuid "83f58879-357e-40fb-9cfa-612da39b60c9")
 		)
 		(pin "39"
-			(uuid "10ed2c9b-6066-4e32-bea4-90ad42365288")
+			(uuid "8aa6a03b-8c2a-4047-8158-69d0963e6ee1")
 		)
 		(pin "34"
-			(uuid "29791c71-8f1f-4f9c-b12f-c8d2be264060")
+			(uuid "fdcd9108-843b-419f-9c0f-4d6c260c5f14")
 		)
 		(pin "22"
-			(uuid "931df5a7-5773-496d-b9b6-3eabe13061ab")
+			(uuid "3d4da659-b33b-4b8a-95ee-d9527072d6d7")
 		)
 		(pin "46"
-			(uuid "6172dfad-7d6a-4de8-a3a1-448658123313")
+			(uuid "774da2f1-9ab2-442b-afb5-98dac95793b1")
 		)
 		(pin "26"
-			(uuid "196e8876-383d-44da-af95-0ba95e829a4b")
+			(uuid "ab193088-b286-4c4b-81cb-4755d7b29577")
 		)
 		(pin "48"
-			(uuid "9a09d185-6ce6-4d7b-a913-0e57ea900f9f")
+			(uuid "025e7f50-05de-4f79-835a-75bfa40b5511")
 		)
 		(pin "28"
-			(uuid "6f82fe02-c9b5-4e24-ae94-fe58a5ce21eb")
+			(uuid "a6ff6790-fd7f-4486-a819-98984109fb46")
 		)
 		(pin "44"
-			(uuid "b566d304-e8f6-435e-bf94-19e33cfe3479")
+			(uuid "04314350-cbfb-4ce7-89fc-48e94421fc41")
 		)
 		(pin "33"
-			(uuid "81aed1a8-3a11-4704-aa6d-58f134061eb3")
+			(uuid "e040f06d-7798-4de7-9d98-a02b2e415e76")
 		)
 		(pin "47"
-			(uuid "5905a367-8596-4532-8786-c4d243670b12")
+			(uuid "dfde3ad3-0f6c-4694-b5d9-b8514cf352a0")
 		)
 		(pin "29"
-			(uuid "fb68dbdd-5401-4354-817c-43d116d55a60")
+			(uuid "5a55d7df-0224-4335-903b-3ec327b0553a")
 		)
 		(pin "37"
-			(uuid "5121f92d-b98c-4094-aa72-cea71d9c07f8")
+			(uuid "58ac1a16-0565-4be7-854e-bffba3307ab1")
 		)
 		(pin "30"
-			(uuid "2d8fcbc9-5659-4a3f-a8ad-9f2af7689a7e")
+			(uuid "d9d229fe-3f76-4af4-813f-3ef9b914e6d2")
 		)
 		(pin "24"
-			(uuid "77d086c4-4f59-4842-b7b1-5a2c2a7c3afb")
+			(uuid "c67bd2fa-c84b-48af-b73a-3787a384aa2e")
 		)
 		(pin "42"
-			(uuid "15bdf6b2-70ba-44f6-ab4e-c6618c535b49")
+			(uuid "bcf8a512-c48d-4b72-9ef6-0ed27c8b3429")
 		)
 		(pin "35"
-			(uuid "03bbc4f5-7473-4cc7-be12-7df17ad04042")
+			(uuid "283799dc-94bd-4839-bba7-f472e00aa404")
 		)
 		(pin "38"
-			(uuid "10064d86-c4ce-4187-8f48-a563f5f473da")
+			(uuid "0bcf5fbf-e449-496f-bed0-732cd7faacf9")
 		)
 		(pin "25"
-			(uuid "1942791c-4519-452b-bcfa-d22623fe9a8a")
+			(uuid "66fd37ac-de7d-4ee6-9d74-ddb38aa902f2")
 		)
 		(pin "41"
-			(uuid "13d5bf15-bac0-4eea-8d22-7830f9fa9e02")
+			(uuid "9110aa71-abe4-4c23-85d8-60c6acc1a579")
 		)
 		(pin "45"
-			(uuid "e6509c35-7f7f-4e68-acc0-92f78f0e06e0")
+			(uuid "fd3515f6-6842-47a4-bf2f-a21735b2edfd")
 		)
 		(pin "40"
-			(uuid "b9523b56-7af5-43be-9af5-9b8bfa309537")
+			(uuid "c120f27c-6f79-48d9-8245-ac3e1df25f2a")
 		)
 		(pin "31"
-			(uuid "af0c6c47-6a4b-4a8e-afe5-493df67ae83b")
+			(uuid "d37071d3-647f-4473-a758-dbb40459a4d6")
 		)
 		(pin "36"
-			(uuid "39f6679a-7eae-4e13-95a9-ee3697408b0b")
+			(uuid "ee7fedc7-0008-4fb6-98db-286bd808e5a8")
 		)
 		(pin "32"
-			(uuid "f7952d95-e81a-4637-aa0a-df32a6f608ea")
+			(uuid "6671d6dc-5f1c-4d28-9383-3950f89058c4")
 		)
 		(pin "43"
-			(uuid "aa5e0573-7472-4679-b573-3215755131ed")
+			(uuid "de895c9a-00bd-468f-bf68-9b95bc872ad1")
 		)
 		(pin "5"
-			(uuid "6066715b-a829-498b-abbb-32bcf8c84ec4")
+			(uuid "5465398b-1937-4d2e-befe-d8de417782bf")
 		)
 		(pin "12"
-			(uuid "c08994f3-6117-4823-a18d-77b1c609f8e2")
+			(uuid "01e7193b-d831-4844-8e11-53bd330657e2")
 		)
 		(pin "13"
-			(uuid "c02554bd-6f8a-47b7-ae67-41aa4fff658c")
+			(uuid "e9cd3f18-11a7-482d-bb19-170667a4769e")
 		)
 		(pin "18"
-			(uuid "dea8c3ea-8a62-471e-8a96-f53f153fc349")
+			(uuid "26bec049-60f9-4ba3-8f1f-00942b432e9d")
 		)
 		(pin "9"
-			(uuid "d4fdc8b4-2388-49cd-951f-673ac72d8ad4")
+			(uuid "7767c7e8-bccc-4d6e-92b0-f820dc472d5c")
 		)
 		(pin "17"
-			(uuid "1d3108bb-7ed3-46a6-874a-1648213d8352")
+			(uuid "56f97e94-02e3-46fb-accc-ef0d2a9bc2c5")
 		)
 		(pin "6"
-			(uuid "05ed0502-7a78-454c-b38e-0b37b69e067b")
+			(uuid "2be8b7e9-8480-403a-82f0-1c9da10c7892")
 		)
 		(pin "10"
-			(uuid "3c1ec649-1fa5-452f-a33c-2bfca021f98b")
+			(uuid "01f181c7-1bf5-43d9-9a37-f428cd0e3482")
 		)
 		(pin "8"
-			(uuid "46cabd99-cd78-4369-a093-d6aa41f9e3e1")
+			(uuid "9180ef00-8f0e-45f4-b016-40fd4d5a8e0d")
 		)
 		(pin "11"
-			(uuid "6e95c8a1-c332-45ad-917e-168311992abe")
+			(uuid "1a878192-ed5b-4563-95c6-198b4f6e77af")
 		)
 		(pin "16"
-			(uuid "1a954d5a-b210-408f-9e4a-a556d3b4fd59")
+			(uuid "66f75db1-aaf3-48c0-bae6-791862ca79ee")
 		)
 		(pin "7"
-			(uuid "e60c642f-76c6-4971-9b19-52b74d771674")
+			(uuid "8f6df687-49d2-41bf-96a4-1968901d06ee")
 		)
 		(pin "19"
-			(uuid "2fce4747-52b9-4fb1-a6e3-ff747989c77a")
+			(uuid "b3f3e7f3-2d6c-4902-a7ad-ce8132ed7158")
 		)
 		(pin "14"
-			(uuid "f79a76e6-7a23-4b0d-82a6-6985ea1d4385")
+			(uuid "d986a580-ab75-417c-8842-a8ae7e43b070")
 		)
 		(pin "15"
-			(uuid "5be3ee8b-008f-4aad-85ae-38420597226a")
+			(uuid "6cad5a2f-a0a9-44bb-8d93-3d2c5bd0c611")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4716,10 +4716,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "559d0f4b-dcfb-4b74-9109-2a92b598c0ad")
+			(uuid "e4cdc73f-b655-4c23-b4b4-0ec7f6dfce02")
 		)
 		(pin "1"
-			(uuid "3f3f6f7b-3bc1-480f-9cf9-dd39dfedc4fd")
+			(uuid "d4e67d65-6e6c-47ec-b89d-416deef8eb90")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4798,10 +4798,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f40c03b9-0893-42d0-8fc0-80f917ef720f")
+			(uuid "7a2505bc-ed74-4bea-8f9d-c4acf8e09fe5")
 		)
 		(pin "1"
-			(uuid "ae568f29-b52f-438c-8420-620f6c21b577")
+			(uuid "12e58528-ba21-4402-9351-6eb39bc8d56c")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4880,10 +4880,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d7869d3c-908a-45e9-9d89-87a269bd9c35")
+			(uuid "2d25abde-413a-4b11-8e37-d48dd3044c09")
 		)
 		(pin "1"
-			(uuid "22804a6c-1b03-405c-a982-adade4d5f4e7")
+			(uuid "5f18b5f1-11ab-41f0-a7cb-c7b93d972e98")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -4962,10 +4962,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "3ce17495-139f-4ca6-9b8c-0571ce62c2fd")
+			(uuid "20a81c52-27e1-45c5-8ca0-d952492c9649")
 		)
 		(pin "1"
-			(uuid "83e4323e-9957-49ff-bce9-5c362fb4d568")
+			(uuid "205bda67-3cec-4749-a9b3-bc81f5fbcb06")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5043,7 +5043,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "85fa82e5-0262-4db3-be75-00257ff7c370")
+			(uuid "156542c1-7c69-43b8-a0c7-1e4faf479c3b")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5123,22 +5123,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "dadd6704-d003-46ca-b26e-bb77d304a415")
+			(uuid "6b20bf68-cfc5-43e5-8fd4-2f841c24b4a6")
 		)
 		(pin "2"
-			(uuid "f7cda207-5457-43d7-a1bd-e52288f784ba")
+			(uuid "936b7ec5-5248-4f39-85a9-0345a76ed69f")
 		)
 		(pin "1"
-			(uuid "7a783113-9b7c-4c83-a841-02e6910e65dc")
+			(uuid "8cbf58b2-534c-4044-beca-b1e1886887e4")
 		)
 		(pin "4"
-			(uuid "1dacefe4-0012-4daa-b37e-a936ee36da07")
+			(uuid "258299f2-54b9-4d8e-bbb9-56aaa6188ca6")
 		)
 		(pin "5"
-			(uuid "06bb538a-7ff6-4943-bace-6387cabf8c5e")
+			(uuid "fe60ef28-df5d-41fb-aa4e-7e76ef639097")
 		)
 		(pin "SH"
-			(uuid "d714f2b4-3fc3-4111-918c-380242d82da8")
+			(uuid "c9e205a7-dc23-48d3-b2ce-447dff4a0cb5")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5217,10 +5217,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb6b6493-dcfd-477e-a765-6efe541f658c")
+			(uuid "082e9648-09bd-49f9-b933-3ddf3c605cf7")
 		)
 		(pin "2"
-			(uuid "429ff099-8b30-4f13-abf8-49ee40df6c5c")
+			(uuid "8f4769b4-fe1f-4ef1-a306-d99554e640d5")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5299,10 +5299,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9f4f44e5-386e-4f18-9de9-cceeb545aef7")
+			(uuid "d9b65ee3-b090-493b-aba0-412818c4b363")
 		)
 		(pin "2"
-			(uuid "12ffaa40-751e-49a4-be48-4e92384b626e")
+			(uuid "7a64a1a9-7fa1-49d3-9585-65a1d627db56")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5382,10 +5382,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "aec3fc77-1b87-4454-ae8c-e7975be3a9c8")
+			(uuid "adbd04dc-cff9-4d42-91db-46e2ec85fde2")
 		)
 		(pin "1"
-			(uuid "1149fcb7-5c8f-458f-9b0d-0685944329fc")
+			(uuid "a7658405-46a3-452a-9dc3-22d3f7f2d906")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5463,7 +5463,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7e09f984-2718-4865-8a96-3c44d3f59a04")
+			(uuid "3d69c850-47f4-4643-8957-88eb7fc0ed5d")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5541,7 +5541,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9acd7260-d040-4ccb-908d-53b5697140f6")
+			(uuid "8c7b4099-71e1-45b7-ada1-06abad0810e1")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5619,7 +5619,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3548541c-0446-4bfc-b856-f80c2d3dd455")
+			(uuid "8c2784e8-d39e-4b39-8f6f-380849f18b2f")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5697,16 +5697,16 @@
 			)
 		)
 		(pin "3"
-			(uuid "5d6b4ae0-18ec-4de4-9c92-42c916ed1739")
+			(uuid "6823cf77-8f76-4915-a2d6-41a0c6aefd4e")
 		)
 		(pin "4"
-			(uuid "e2dad95f-4983-48d1-bc5a-6cf9742eee31")
+			(uuid "e9f0a742-03c4-43d6-9ff4-9779d41f791a")
 		)
 		(pin "2"
-			(uuid "67174b70-0f2e-477a-aded-4eb5c757a4b5")
+			(uuid "be3d4250-298b-42ee-adfc-e91d06ff0721")
 		)
 		(pin "1"
-			(uuid "c8a81da3-f17d-4c9f-9722-aded8d5b077c")
+			(uuid "565443d5-f9b0-4ed6-a801-e8ffe2d710c1")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5784,7 +5784,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "81bdf77f-a9cc-4e35-8c7b-6040e8da9a3b")
+			(uuid "bee0acba-6618-4e9a-b11e-72196087ebea")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5862,7 +5862,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d67629df-55f3-4c1e-a165-8fafd6ea432a")
+			(uuid "eb2f798c-f9e0-4c14-86f7-e47eb7927485")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -5938,10 +5938,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8fa84265-76e9-419c-8ecc-a1034d682d28")
+			(uuid "46164538-00de-4208-9904-c3b6959043d4")
 		)
 		(pin "2"
-			(uuid "a8c16c62-524f-4342-afc2-e91e70330362")
+			(uuid "75730754-be6e-4882-88e4-d73e10c052fa")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -6020,10 +6020,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4207e1b0-d21a-4222-a83f-3d0a8aa020c8")
+			(uuid "5e3cd65e-c99b-4498-a5f0-dc26c9cb0849")
 		)
 		(pin "1"
-			(uuid "e4e8239f-8d30-44dd-b9b1-fe5cfbd84859")
+			(uuid "abfe645d-ec48-4d93-a985-22742a243347")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -6101,7 +6101,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8b6b130c-bc7b-4edf-9c3a-99bce2820c56")
+			(uuid "ae86cbfa-f222-47e3-aad0-7bff72bc3b5c")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -6179,7 +6179,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f76cc31d-aab2-4b8a-a940-43f0da5cc8c0")
+			(uuid "a9cc89b7-43e1-4561-b3d9-e6a60545632d")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"
@@ -6258,10 +6258,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7c0aa4de-4021-4415-b4d5-47181bd4e038")
+			(uuid "60cc8c40-92e0-452e-84a9-871edcabeb4f")
 		)
 		(pin "2"
-			(uuid "8dcd8674-603f-4260-ac8c-ebba4280793e")
+			(uuid "12d5fba8-643f-48b8-8731-7066775e26bd")
 		)
 		(instances
 			(project "STM32F407 Dev Kit"

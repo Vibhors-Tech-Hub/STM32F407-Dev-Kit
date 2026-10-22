@@ -18,8 +18,8 @@
 		(uuid "e0a325ec-21a6-4bcc-a138-31d37ff16bb6")
 	)
 	(sheet
-		(at 20.32 17.78)
-		(size 76.2 33.02)
+		(at 20.32 24.13)
+		(size 50.8 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -34,7 +34,7 @@
 		)
 		(uuid "5389b452-874d-4712-b4e2-36fe28778b66")
 		(property "Sheetname" "[1] - Block Diagram"
-			(at 20.32 17.0684 0)
+			(at 20.32 23.4184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Sheetfile" "block_diagram_1.kicad_sch"
-			(at 20.32 51.3846 0)
+			(at 20.32 75.5146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -64,8 +64,8 @@
 		)
 	)
 	(sheet
-		(at 26.162 76.708)
-		(size 49.53 50.546)
+		(at 226.06 24.13)
+		(size 49.53 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -80,7 +80,7 @@
 		)
 		(uuid "54c804ff-4d38-4852-afff-9e7cf62bfe1f")
 		(property "Sheetname" "[4] - ETHERNET PHY"
-			(at 26.162 75.9964 0)
+			(at 226.06 23.4184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -91,7 +91,7 @@
 			)
 		)
 		(property "Sheetfile" "ethernet_phy_4.kicad_sch"
-			(at 26.162 127.8386 0)
+			(at 226.06 75.5146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -110,8 +110,54 @@
 		)
 	)
 	(sheet
-		(at 111.76 17.78)
-		(size 72.39 33.02)
+		(at 154.94 101.6)
+		(size 50.8 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6f0c22b1-7361-42cd-874f-7f49f54e5538")
+		(property "Sheetname" "[7] - DAC & Mic"
+			(at 154.94 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac_mic_7.kicad_sch"
+			(at 154.94 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 25.4)
+		(size 50.8 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -126,7 +172,7 @@
 		)
 		(uuid "70ab1f67-b1e3-44f4-bdbe-d242f8fb0382")
 		(property "Sheetname" "[2] - Power Budget"
-			(at 111.76 17.0684 0)
+			(at 87.63 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -137,7 +183,7 @@
 			)
 		)
 		(property "Sheetfile" "power_budget_2.kicad_sch"
-			(at 111.76 51.3846 0)
+			(at 87.63 76.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -156,8 +202,8 @@
 		)
 	)
 	(sheet
-		(at 194.31 17.78)
-		(size 69.85 27.94)
+		(at 154.94 25.4)
+		(size 50.8 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -172,7 +218,7 @@
 		)
 		(uuid "afef3b25-b2f4-4a17-a386-d4b1d1a00dcb")
 		(property "Sheetname" "[3] - STM32F103 debugger"
-			(at 194.31 17.0684 0)
+			(at 154.94 24.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -183,7 +229,7 @@
 			)
 		)
 		(property "Sheetfile" "stm32f103_debugger_3.kicad_sch"
-			(at 194.31 46.3046 0)
+			(at 154.94 76.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -202,8 +248,8 @@
 		)
 	)
 	(sheet
-		(at 95.25 77.47)
-		(size 91.44 33.02)
+		(at 20.828 101.092)
+		(size 50.8 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -218,7 +264,7 @@
 		)
 		(uuid "f3e80f5b-ef7e-41ed-b057-32d755dc9014")
 		(property "Sheetname" "[5] - Motor Driver"
-			(at 95.25 76.7584 0)
+			(at 20.828 100.3804 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -229,7 +275,7 @@
 			)
 		)
 		(property "Sheetfile" "motor_driver_5.kicad_sch"
-			(at 95.25 111.0746 0)
+			(at 20.828 152.4766 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -243,6 +289,52 @@
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17"
 					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 101.6)
+		(size 50.8 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ffbc1d55-b358-41ae-b676-6d3702761bb2")
+		(property "Sheetname" "[6] - ADC"
+			(at 87.63 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc_6.kicad_sch"
+			(at 87.63 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17"
+					(page "7")
 				)
 			)
 		)
