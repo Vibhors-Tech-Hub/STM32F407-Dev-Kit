@@ -429,7 +429,7 @@
         "uuid": "f3d27387-fbda-4c9d-aea0-93d92d34cd17"
       }
     ],
-    "used_designators": "#PWR1-91,D1-12,C1-54,J1-8,R1-30,SW1-3,U1-7,Y1-3,FB1-3,Q1",
+    "used_designators": "#PWR1-124,D1-12,C1-74,J1-10,R1-36,SW1-3,U1-9,Y1-3,FB1-4,Q1",
     "variants": []
   },
   "sheets": [
@@ -464,6 +464,10 @@
     [
       "6f0c22b1-7361-42cd-874f-7f49f54e5538",
       "[7] - DAC & Mic"
+    ],
+    [
+      "a1aebd2c-c61d-4036-bb92-ba450ab2c751",
+      "[8] - STM32F407"
     ]
   ],
   "text_variables": {},

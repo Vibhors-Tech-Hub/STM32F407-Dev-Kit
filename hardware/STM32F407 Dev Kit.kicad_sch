@@ -202,6 +202,52 @@
 		)
 	)
 	(sheet
+		(at 226.06 101.6)
+		(size 48.26 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a1aebd2c-c61d-4036-bb92-ba450ab2c751")
+		(property "Sheetname" "[8] - STM32F407"
+			(at 226.06 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm32f407_8.kicad_sch"
+			(at 226.06 152.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 154.94 25.4)
 		(size 50.8 50.8)
 		(exclude_from_sim no)
