@@ -3925,7 +3925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00a8a48a-285b-46d0-962b-57ff1e28af51")
-		(property "Reference" "C47"
+		(property "Reference" "C51"
 			(at 217.17 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3989,7 +3989,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C47")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -4008,7 +4008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01691dbc-a6a0-472d-b4db-c5f68d84b855")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR068"
 			(at 125.73 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4068,7 +4068,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR070")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4087,7 +4087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01879dc9-4949-4eb5-bc0e-7a32f2cdb2a0")
-		(property "Reference" "C36"
+		(property "Reference" "C40"
 			(at 111.76 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4151,7 +4151,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C36")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -4169,7 +4169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "027bf1e5-39d1-4f83-8b1a-642bceb06f6b")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR080"
 			(at 161.29 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4229,7 +4229,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR081")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -4247,7 +4247,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a9573f3-7f79-4a29-bb5c-c812fd30ec09")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR071"
 			(at 128.27 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -4307,7 +4307,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR072")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -4325,7 +4325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "150270d0-4ead-481e-98fd-c3f780352ff2")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR073"
 			(at 137.16 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4385,7 +4385,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR069")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -4402,7 +4402,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c0cbe13-4d67-443e-ad0d-99ae1e7156e2")
-		(property "Reference" "C45"
+		(property "Reference" "C36"
 			(at 72.39 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4466,7 +4466,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C45")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -4484,7 +4484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30c5b57d-06a2-447a-bed8-bbd53bae237d")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR083"
 			(at 213.36 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -4544,7 +4544,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR079")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -4562,7 +4562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30cdbcf1-26cc-407f-a610-eaa37800803b")
-		(property "Reference" "C49"
+		(property "Reference" "C48"
 			(at 165.1 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4626,7 +4626,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C49")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -4921,7 +4921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49f4c927-f115-4df7-8e1d-53838138cfe3")
-		(property "Reference" "C38"
+		(property "Reference" "C37"
 			(at 87.63 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4985,7 +4985,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C38")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -5003,7 +5003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4acdaa3e-d30d-40eb-802d-57a110fe55c9")
-		(property "Reference" "C52"
+		(property "Reference" "C44"
 			(at 142.24 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5067,7 +5067,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C52")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -5084,7 +5084,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4cc078bd-661b-4bb1-9971-1f0d64e32888")
-		(property "Reference" "C46"
+		(property "Reference" "C34"
 			(at 49.53 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5148,7 +5148,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C46")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -5165,7 +5165,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61bf5c4d-4ae6-4042-b7ec-672ee101b8c2")
-		(property "Reference" "R25"
+		(property "Reference" "R20"
 			(at 138.938 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5229,7 +5229,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "R25")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -5338,7 +5338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72c41fd8-8de6-4647-8057-b899ed67f614")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR067"
 			(at 116.84 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5398,7 +5398,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR073")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -5416,7 +5416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "786fceee-35b7-4546-b423-0cbaf5975e5b")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR074"
 			(at 138.43 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5476,7 +5476,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR084")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -5777,7 +5777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7aa8e131-46cf-4776-9c31-9aede2bdf75b")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR065"
 			(at 105.41 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5837,7 +5837,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR074")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -5855,7 +5855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d5f3cfa-216b-4705-a4b5-ee9aa8ee6bd8")
-		(property "Reference" "R26"
+		(property "Reference" "R21"
 			(at 215.9 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5919,7 +5919,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "R26")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -5938,7 +5938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eac3cd5-c7c2-4982-9dbb-8312645ff262")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR060"
 			(at 45.72 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5998,7 +5998,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR078")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -6093,7 +6093,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8422c137-df7f-4a5d-aca0-0d215621e013")
-		(property "Reference" "C40"
+		(property "Reference" "C47"
 			(at 161.29 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6157,7 +6157,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C40")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -6174,7 +6174,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d499eda-dbcd-4c24-88fb-0740992ff78b")
-		(property "Reference" "C54"
+		(property "Reference" "C52"
 			(at 219.71 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6238,7 +6238,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C54")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -6257,7 +6257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ff36cbb-0f2b-41dd-903a-da848205c12c")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR077"
 			(at 156.21 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6317,7 +6317,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR088")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -6335,7 +6335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91762258-1516-4b70-a228-10ab5e8275f6")
-		(property "Reference" "C41"
+		(property "Reference" "C43"
 			(at 132.08 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6399,7 +6399,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C41")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -6416,7 +6416,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91f7e7b3-fa31-474d-b2f0-e16e0cef2412")
-		(property "Reference" "C53"
+		(property "Reference" "C50"
 			(at 207.01 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6480,7 +6480,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C53")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -6498,7 +6498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "925a548a-86fc-42fd-85a8-4aa8209ccbc3")
-		(property "Reference" "R27"
+		(property "Reference" "R22"
 			(at 227.33 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6562,7 +6562,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "R27")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -6580,7 +6580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9dcafa08-3cf7-43f9-a802-ade968612e97")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR072"
 			(at 130.81 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6640,7 +6640,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR085")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -6659,7 +6659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f8e0b0e-8987-441e-b39b-f8f69afb4140")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR062"
 			(at 68.58 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6719,7 +6719,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR077")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -6737,7 +6737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a19d6b3d-53b4-43e9-8ba2-72bcf2ac9cfe")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR081"
 			(at 172.72 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6797,7 +6797,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR082")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -6815,7 +6815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2b76a2f-1288-4701-b118-c08724649fb4")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR079"
 			(at 158.75 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6875,7 +6875,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR086")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -6892,7 +6892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5be937b-121e-4133-af2d-fe0d5ab727b5")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR058"
 			(at 39.37 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6952,7 +6952,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR066")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -6970,7 +6970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc9a51d4-99f7-469c-91b3-feb03ef8baa5")
-		(property "Reference" "C51"
+		(property "Reference" "C46"
 			(at 152.4 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7034,7 +7034,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C51")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -7053,7 +7053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c40e59e1-74be-4925-8f3b-89f010293af0")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR066"
 			(at 115.57 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7113,7 +7113,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR061")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -7131,7 +7131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca4f6dd9-874c-42d4-864f-31f5051c7567")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR086"
 			(at 236.22 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7191,7 +7191,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR089")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -7210,7 +7210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0cea7a8-c1fd-407e-ad55-dab3d469c46b")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR078"
 			(at 157.48 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7270,7 +7270,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR065")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -7289,7 +7289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0f1e1d5-68a4-492f-90e9-e6dc55df68ff")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR064"
 			(at 105.41 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -7349,7 +7349,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR071")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -7368,7 +7368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d43697b1-f935-4eea-9466-922d1d1fb480")
-		(property "Reference" "C35"
+		(property "Reference" "C42"
 			(at 123.19 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7432,7 +7432,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C35")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -7449,7 +7449,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d62430e9-8a1f-4510-b33c-afae3e078236")
-		(property "Reference" "C39"
+		(property "Reference" "C45"
 			(at 149.86 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7513,7 +7513,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C39")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -7532,7 +7532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d810a394-cefe-496e-bedd-0a66cfdaa77c")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR061"
 			(at 57.15 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7592,7 +7592,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR076")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -7610,7 +7610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da149e8d-66e0-4900-9ad5-ba5d505f92d3")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR076"
 			(at 148.59 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -7670,7 +7670,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR083")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -7689,7 +7689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc62c404-9088-4214-9d86-f27ae9d7956d")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR075"
 			(at 146.05 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7749,7 +7749,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR064")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -7767,7 +7767,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de291060-73cb-4b08-9d48-9d06a9d428ea")
-		(property "Reference" "C43"
+		(property "Reference" "C38"
 			(at 109.22 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7831,7 +7831,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C43")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -7928,7 +7928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9ba9374-c39a-42a3-9a74-b686d1729397")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR082"
 			(at 203.2 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7988,7 +7988,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR090")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -8006,7 +8006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edda039e-d41d-4e26-8c75-a1d676181ad4")
-		(property "Reference" "C48"
+		(property "Reference" "C53"
 			(at 228.6 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8070,7 +8070,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C48")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -8089,7 +8089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eff76258-0649-4379-b232-3e1da710b499")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR069"
 			(at 127 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8149,7 +8149,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR060")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -8167,7 +8167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f171d822-29bc-4e84-86c3-c78be11d459f")
-		(property "Reference" "C50"
+		(property "Reference" "C49"
 			(at 176.53 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8231,7 +8231,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C50")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -8250,7 +8250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3643e57-f84c-419b-8d28-16aad67524a5")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR070"
 			(at 127 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8310,7 +8310,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR062")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -8328,7 +8328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3a17e3d-6a23-4bd2-9d93-894910954dc7")
-		(property "Reference" "C42"
+		(property "Reference" "C41"
 			(at 120.65 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8392,7 +8392,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C42")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -8410,7 +8410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f83e8871-ad97-44a1-ab5f-a9efb29dac07")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR085"
 			(at 224.79 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8470,7 +8470,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR080")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -8487,7 +8487,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa7b1306-7959-46c9-aa86-871332bbb8fe")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR059"
 			(at 45.72 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8547,7 +8547,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR075")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -8564,7 +8564,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb7046ce-a82a-4b63-9e81-417ababa7734")
-		(property "Reference" "C37"
+		(property "Reference" "C39"
 			(at 113.03 122.428 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8626,7 +8626,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C37")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -8645,7 +8645,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc32d5d4-17cb-4ca4-97bd-7825a1cddc0d")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR084"
 			(at 215.9 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -8705,7 +8705,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "#PWR091")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -8722,7 +8722,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff07350a-c4fb-4b2f-86bb-1e42e1912995")
-		(property "Reference" "C44"
+		(property "Reference" "C35"
 			(at 60.96 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8786,7 +8786,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
-					(reference "C44")
+					(reference "C35")
 					(unit 1)
 				)
 			)

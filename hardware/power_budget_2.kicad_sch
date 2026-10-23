@@ -187,6 +187,18 @@
 		)
 		(uuid "395967f3-7c24-43e4-82f5-99f2bd5edbde")
 	)
+	(text "Needs a small\nextra LDO\n"
+		(exclude_from_sim no)
+		(at 231.394 135.636 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+			)
+		)
+		(uuid "5615ebba-9456-4f76-a89c-02b15800ad87")
+	)
 	(text "+3V3 Buck\nConverter"
 		(exclude_from_sim no)
 		(at 127.254 94.6276 0)
@@ -412,9 +424,9 @@
 		)
 		(uuid "e0bd27e7-3fdb-458d-8315-6e53245423ab")
 	)
-	(text "+3V3/10mA"
+	(text "+3V3/10mA & +1V8/10mA\n"
 		(exclude_from_sim no)
-		(at 224.536 130.1876 0)
+		(at 221.996 128.016 0)
 		(effects
 			(font
 				(face "Microsoft Sans Serif")

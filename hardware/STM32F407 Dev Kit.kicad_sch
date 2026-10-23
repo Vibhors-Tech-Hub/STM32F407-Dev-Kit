@@ -18,6 +18,52 @@
 		(uuid "e0a325ec-21a6-4bcc-a138-31d37ff16bb6")
 	)
 	(sheet
+		(at 19.05 173.99)
+		(size 140.97 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4ed455fe-d27e-4e36-92a6-b54624a52e8d")
+		(property "Sheetname" "[9] - Power"
+			(at 19.05 173.2784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_9.kicad_sch"
+			(at 19.05 188.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 20.32 24.13)
 		(size 50.8 50.8)
 		(exclude_from_sim no)

@@ -429,7 +429,7 @@
         "uuid": "f3d27387-fbda-4c9d-aea0-93d92d34cd17"
       }
     ],
-    "used_designators": "#PWR1-124,D1-12,C1-74,J1-10,R1-36,SW1-3,U1-9,Y1-3,FB1-4,Q1",
+    "used_designators": "D1-12,#PWR1-132,C1-86,R1-36,J1-11,SW1-3,U1-9,Y1-3,FB1-4,Q1,L1",
     "variants": []
   },
   "sheets": [
@@ -468,6 +468,10 @@
     [
       "a1aebd2c-c61d-4036-bb92-ba450ab2c751",
       "[8] - STM32F407"
+    ],
+    [
+      "4ed455fe-d27e-4e36-92a6-b54624a52e8d",
+      "[9] - Power"
     ]
   ],
   "text_variables": {},
