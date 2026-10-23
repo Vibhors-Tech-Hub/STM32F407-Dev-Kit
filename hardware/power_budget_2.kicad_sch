@@ -187,7 +187,7 @@
 		)
 		(uuid "395967f3-7c24-43e4-82f5-99f2bd5edbde")
 	)
-	(text "Needs a small\nextra LDO\n"
+	(text "Needs an extra\nLDO for +1V8\n"
 		(exclude_from_sim no)
 		(at 231.394 135.636 0)
 		(effects
@@ -398,7 +398,7 @@
 	)
 	(text "+12V/8A"
 		(exclude_from_sim no)
-		(at 72.39 53.9876 0)
+		(at 70.612 53.086 0)
 		(effects
 			(font
 				(face "Microsoft Sans Serif")
@@ -438,9 +438,9 @@
 		)
 		(uuid "f69c23d4-cfef-4e8f-bde8-6641c78b33ae")
 	)
-	(text "+12V Power\nInput"
+	(text "+12V 8A Power\nInput"
 		(exclude_from_sim no)
-		(at 62.992 42.5576 0)
+		(at 68.834 41.91 0)
 		(effects
 			(font
 				(face "Microsoft Sans Serif")
@@ -449,7 +449,7 @@
 				(bold yes)
 				(color 0 0 0 1)
 			)
-			(justify left top)
+			(justify top)
 		)
 		(uuid "fd764426-a162-4a16-845b-21a6216b5d58")
 	)

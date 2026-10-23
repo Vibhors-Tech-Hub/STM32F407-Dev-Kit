@@ -429,7 +429,7 @@
         "uuid": "f3d27387-fbda-4c9d-aea0-93d92d34cd17"
       }
     ],
-    "used_designators": "D1-12,#PWR1-132,C1-86,R1-36,J1-11,SW1-3,U1-9,Y1-3,FB1-4,Q1,L1",
+    "used_designators": "D1-12,#PWR1-136,C1-88,R1-36,J1-11,SW1-3,U1-9,Y1-4,FB1-4,Q1,L1",
     "variants": []
   },
   "sheets": [
@@ -451,7 +451,7 @@
     ],
     [
       "54c804ff-4d38-4852-afff-9e7cf62bfe1f",
-      "[4] - ETHERNET PHY"
+      "[4] - Ethernet PHY"
     ],
     [
       "f3e80f5b-ef7e-41ed-b057-32d755dc9014",

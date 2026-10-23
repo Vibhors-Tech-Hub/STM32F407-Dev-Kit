@@ -125,7 +125,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "54c804ff-4d38-4852-afff-9e7cf62bfe1f")
-		(property "Sheetname" "[4] - ETHERNET PHY"
+		(property "Sheetname" "[4] - Ethernet PHY"
 			(at 226.06 23.4184 0)
 			(show_name no)
 			(do_not_autoplace no)
