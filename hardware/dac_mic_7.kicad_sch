@@ -4025,7 +4025,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 212.3948 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -4187,7 +4187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 98.0948 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4502,7 +4502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 53.0352 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4662,7 +4662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 145.7452 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4741,7 +4741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SJ-3524-SMT:CUI_SJ-3524-SMT"
+		(property "Footprint" "STM32F407 Dev Kit Library:SJ-3524-SMT"
 			(at 248.92 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -4939,7 +4939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 113.538 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -5021,7 +5021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 66.3448 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5103,7 +5103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 122.8852 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5184,7 +5184,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 30.1752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5265,7 +5265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 118.872 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -5347,7 +5347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:IMP34DT06JTR"
 			(at 245.11 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5592,7 +5592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CS43L22:QFN40-6X6"
+		(property "Footprint" "STM32F407 Dev Kit Library:VQFN-40-1EP_6x6mm_P0.5mm_EP3.5x3.5mm"
 			(at 86.36 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -5955,7 +5955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 211.582 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -6193,7 +6193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 141.9352 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6274,7 +6274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6435,7 +6435,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 110.7948 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6516,7 +6516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 207.9752 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6598,7 +6598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 223.012 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -7070,7 +7070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 133.0452 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -7468,7 +7468,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 109.5248 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7549,7 +7549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 130.5052 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7867,7 +7867,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 87.9348 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8106,7 +8106,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 223.8248 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8267,7 +8267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 157.1752 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8428,7 +8428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 99.3648 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8662,7 +8662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:ST_D_SMC"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 101.6 128.5748 0)
 			(hide yes)
 			(show_name no)
@@ -8822,7 +8822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 41.6052 97.79 0)
 			(hide yes)
 			(show_name no)

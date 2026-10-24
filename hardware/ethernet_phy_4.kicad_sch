@@ -3078,7 +3078,7 @@
 		(uuid "a06564a8-5cb8-4264-8939-35ffd2a1fee5")
 	)
 	(junction
-		(at 222.25 44.45)
+		(at 210.82 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc851666-c8bb-49b0-81fe-5810a2d7ca56")
@@ -3105,7 +3105,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 36.83) (xy 222.25 44.45)
+			(xy 210.82 35.56) (xy 210.82 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3135,7 +3135,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 44.45) (xy 224.79 44.45)
+			(xy 210.82 43.18) (xy 213.36 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3185,7 +3185,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 44.45) (xy 260.35 44.45)
+			(xy 220.98 43.18) (xy 248.92 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3215,7 +3215,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 36.83) (xy 222.25 36.83)
+			(xy 213.36 35.56) (xy 210.82 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3686,7 +3686,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 36.83) (xy 260.35 36.83)
+			(xy 220.98 35.56) (xy 248.92 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3836,7 +3836,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 44.45) (xy 222.25 48.26)
+			(xy 210.82 43.18) (xy 210.82 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4085,7 +4085,7 @@
 		(uuid "b9c00844-7bf3-40ad-9321-7e54dab83135")
 	)
 	(label "DP83826IRHBR_OSC_OUT"
-		(at 257.81 44.45 180)
+		(at 246.38 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4125,7 +4125,7 @@
 		(uuid "cf1671b4-c71f-4b86-a493-5cc852115778")
 	)
 	(label "DP83826IRHBR_OSC_IN"
-		(at 257.81 36.83 180)
+		(at 246.38 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4894,7 +4894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 266.3952 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4975,7 +4975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 136.8552 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5056,7 +5056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:D_SOD-923"
 			(at 134.95 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5192,7 +5192,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 222.25 48.26 0)
+		(at 210.82 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5203,7 +5203,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ffa1b19-8d24-492d-b92c-c6b9e4a0e4c2")
 		(property "Reference" "#PWR016"
-			(at 222.25 54.61 0)
+			(at 210.82 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5214,7 +5214,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 222.25 53.34 0)
+			(at 210.82 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5224,7 +5224,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 48.26 0)
+			(at 210.82 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5235,7 +5235,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 48.26 0)
+			(at 210.82 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5246,7 +5246,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 222.25 48.26 0)
+			(at 210.82 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5301,7 +5301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 188.9252 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5351,7 +5351,7 @@
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:C")
-		(at 228.6 36.83 90)
+		(at 217.17 35.56 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5361,7 +5361,7 @@
 		(dnp no)
 		(uuid "400725a8-cb40-49d3-a9af-48442f6d69ee")
 		(property "Reference" "C12"
-			(at 226.06 35.814 90)
+			(at 214.63 34.544 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5371,7 +5371,7 @@
 			)
 		)
 		(property "Value" "22p"
-			(at 231.648 35.814 90)
+			(at 220.218 34.544 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5380,8 +5380,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:ST_Morpho_Connector_144_STLink"
-			(at 232.41 35.8648 0)
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 220.98 34.5948 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5392,7 +5392,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 36.83 0)
+			(at 217.17 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5403,7 +5403,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 228.6 36.83 0)
+			(at 217.17 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5538,7 +5538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RJMG1S8008101BR:AMPHENOL_RJMG1S8008101BR"
+		(property "Footprint" "STM32F407 Dev Kit Library:RJMG1S8008101BR"
 			(at 231.14 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -5790,7 +5790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 31.4452 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5949,7 +5949,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 119.38 127 0)
 			(hide yes)
 			(show_name no)
@@ -6088,7 +6088,7 @@
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:Crystal")
-		(at 260.35 40.64 90)
+		(at 248.92 39.37 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6099,7 +6099,7 @@
 		(fields_autoplaced yes)
 		(uuid "63518de8-aba0-4960-b97b-d84e0bb10d19")
 		(property "Reference" "Y2"
-			(at 265.43 39.3699 90)
+			(at 252.73 38.0999 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6109,8 +6109,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
-			(at 265.43 41.9099 90)
+		(property "Value" "ABM8G-25.000MHZ-9-B4Y-T"
+			(at 252.73 40.6399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6120,8 +6120,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 260.35 40.64 0)
+		(property "Footprint" "STM32F407 Dev Kit Library:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6132,7 +6132,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 40.64 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6143,7 +6143,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 260.35 40.64 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6201,7 +6201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 119.0752 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6594,7 +6594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 160.9852 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6675,7 +6675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 256.2352 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6755,7 +6755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DP83826IRHBR:IC_DP83826IRHBR"
+		(property "Footprint" "STM32F407 Dev Kit Library:UQFN-32_5x5mm_P0.5mm"
 			(at 76.2 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7153,7 +7153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:D_SOD-923"
 			(at 154 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7321,7 +7321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 162.052 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -7402,7 +7402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DP83826IRHBR:IC_DP83826IRHBR"
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 109.982 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -7483,7 +7483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "STM32F407 Dev Kit Library:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 111.76 127 0)
 			(hide yes)
 			(show_name no)
@@ -7731,7 +7731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DP83826IRHBR:IC_DP83826IRHBR"
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 160.782 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -7891,7 +7891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "STM32F407 Dev Kit Library:SW_Push_1P1T_NO_CK_KSC9xxG"
 			(at 158.75 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7972,7 +7972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 127.9652 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8053,7 +8053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:D_SOD-923"
 			(at 115.9 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8220,7 +8220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 178.7652 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -8379,7 +8379,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 147.0152 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8663,7 +8663,7 @@
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:C")
-		(at 228.6 44.45 90)
+		(at 217.17 43.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8673,7 +8673,7 @@
 		(dnp no)
 		(uuid "c5448716-7c1b-47e9-91a0-4b754e5bda7a")
 		(property "Reference" "C13"
-			(at 226.06 43.434 90)
+			(at 214.63 42.164 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8683,7 +8683,7 @@
 			)
 		)
 		(property "Value" "22p"
-			(at 231.648 43.434 90)
+			(at 220.218 42.164 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8692,8 +8692,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 232.41 43.4848 0)
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 220.98 42.2148 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8704,7 +8704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 44.45 0)
+			(at 217.17 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8715,7 +8715,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 228.6 44.45 0)
+			(at 217.17 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8773,7 +8773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DP83826IRHBR:IC_DP83826IRHBR"
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 22.352 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -8854,7 +8854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SODFL1006X43N"
+		(property "Footprint" "STM32F407 Dev Kit Library:D_SOD-923"
 			(at 173.05 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -9176,7 +9176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 154.94 58.928 90)
 			(hide yes)
 			(show_name no)
@@ -9335,7 +9335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 117.602 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -9416,7 +9416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 169.8752 64.77 0)
 			(hide yes)
 			(show_name no)

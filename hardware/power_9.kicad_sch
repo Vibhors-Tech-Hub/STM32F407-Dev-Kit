@@ -2432,7 +2432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 216.2048 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -2514,7 +2514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 68.2752 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -2596,7 +2596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 92.4052 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2757,7 +2757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 117.8052 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2838,7 +2838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
 			(at 199.0852 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2920,7 +2920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 129.2352 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3081,7 +3081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 227.6348 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3163,7 +3163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 115.2652 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3401,7 +3401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 106.3752 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3874,7 +3874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 126.6952 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4034,7 +4034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 138.1252 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4114,7 +4114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:TSOT-23-6_HandSoldering"
 			(at 99.06 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -4208,7 +4208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 177.4952 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -4444,7 +4444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 129.54 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4603,7 +4603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 188.722 68.58 90)
 			(hide yes)
 			(show_name no)
@@ -4762,7 +4762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+		(property "Footprint" "STM32F407 Dev Kit Library:SOT-23-3"
 			(at 196.85 114.935 0)
 			(hide yes)
 			(show_name no)
@@ -4848,7 +4848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 113.9952 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -5008,7 +5008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 79.7052 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5323,7 +5323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal"
 			(at 73.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5487,7 +5487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 166.0652 129.54 0)
 			(hide yes)
 			(show_name no)

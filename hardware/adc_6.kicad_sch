@@ -2206,7 +2206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 169.8752 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -2288,7 +2288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 192.7352 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2445,7 +2445,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 204.47 97.028 90)
 			(hide yes)
 			(show_name no)
@@ -2839,7 +2839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 141.9352 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -2920,7 +2920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 133.0452 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3134,10 +3134,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "72d58fdc-9406-472f-9b65-07d8fcf2fa6f")
 		(property "Reference" "FB2"
-			(at 132.08 67.3607 0)
+			(at 129.286 66.548 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3147,8 +3146,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "MH1608A-102Y"
-			(at 132.08 69.9007 0)
+		(property "Value" "ILHB0805ER102VHC41"
+			(at 129.286 72.136 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3158,7 +3157,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 130.048 68.58 90)
 			(hide yes)
 			(show_name no)
@@ -3316,7 +3315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADS122C04IPW:SOP65P640X120-16N"
+		(property "Footprint" "STM32F407 Dev Kit Library:TSSOP-16_4.4x5mm_P0.65mm"
 			(at 99.06 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -3679,7 +3678,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 204.47 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -3761,7 +3760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 233.3752 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3842,7 +3841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal"
+		(property "Footprint" "STM32F407 Dev Kit Library:PinHeader_1x04_P2.54mm_Vertical"
 			(at 227.33 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4086,7 +4085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 181.3052 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -4168,7 +4167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 61.722 106.68 90)
 			(hide yes)
 			(show_name no)

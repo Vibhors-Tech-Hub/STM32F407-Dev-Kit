@@ -4673,7 +4673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DMHT6016LFJ-13:TRANS_DMHT6016LFJ-13"
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 196.342 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -4834,7 +4834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 67.818 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -4915,7 +4915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 169.8752 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4996,7 +4996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 86.0552 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5235,7 +5235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 74.422 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -5315,7 +5315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DMHT6016LFJ-13:TRANS_DMHT6016LFJ-13"
+		(property "Footprint" "STM32F407 Dev Kit Library:V-DFN5045-12"
 			(at 215.9 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -5881,7 +5881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 150.8252 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5963,7 +5963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 158.242 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -6045,7 +6045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 74.422 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6126,7 +6126,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 159.7152 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6442,7 +6442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 67.818 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -6602,7 +6602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 82.042 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -6762,7 +6762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+		(property "Footprint" "STM32F407 Dev Kit Library:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 209.55 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6920,7 +6920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DRV8701ERGET:QFN50P400X400X100-25N"
+		(property "Footprint" "STM32F407 Dev Kit Library:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm"
 			(at 116.84 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7217,7 +7217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 167.132 118.11 90)
 			(hide yes)
 			(show_name no)
