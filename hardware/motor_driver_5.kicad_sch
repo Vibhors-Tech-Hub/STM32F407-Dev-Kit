@@ -3588,16 +3588,16 @@
 		(uuid "3bd45f3c-4039-430f-8c17-78b7a3791662")
 	)
 	(junction
-		(at 198.12 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44493b9e-803a-4d08-a534-cde76fa025b8")
-	)
-	(junction
 		(at 149.86 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a73b33b-e2f5-49a3-8ded-dad27811bcbc")
+	)
+	(junction
+		(at 198.12 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64bc1c99-76a5-4139-b087-2564b3be84d1")
 	)
 	(junction
 		(at 158.75 81.28)
@@ -3606,16 +3606,16 @@
 		(uuid "66cd9e9b-e6da-4de6-8cc5-b2cda7543d31")
 	)
 	(junction
-		(at 198.12 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7a7eb410-30a8-45dc-b6a8-f2e9df1ccb92")
-	)
-	(junction
 		(at 233.68 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7eab579d-1292-4b3d-97fb-7a116a999f2a")
+	)
+	(junction
+		(at 83.82 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2e84055-eab4-47e2-8d5c-5f7200e48e4b")
 	)
 	(junction
 		(at 233.68 93.98)
@@ -3711,6 +3711,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 93.98) (xy 198.12 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "173bcd3c-df0b-4b9e-88ac-642b74cee8d8")
+	)
+	(wire
+		(pts
 			(xy 93.98 99.06) (xy 96.52 99.06)
 		)
 		(stroke
@@ -3728,6 +3738,16 @@
 			(type default)
 		)
 		(uuid "266f7a89-c667-472d-bd73-a50a5a32aac0")
+	)
+	(wire
+		(pts
+			(xy 96.52 100.33) (xy 83.82 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "280fc53a-cb3e-440f-8f70-e20493378d73")
 	)
 	(wire
 		(pts
@@ -3811,16 +3831,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 101.6) (xy 96.52 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40fb9e7e-97df-480d-9ab0-6778ed2285e2")
-	)
-	(wire
-		(pts
 			(xy 83.82 100.33) (xy 83.82 99.06)
 		)
 		(stroke
@@ -3828,16 +3838,6 @@
 			(type default)
 		)
 		(uuid "5069f660-85b0-4003-83e1-b9d0c0480751")
-	)
-	(wire
-		(pts
-			(xy 193.04 93.98) (xy 198.12 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "511cb505-9dcc-45f7-9a5e-7f443e66398d")
 	)
 	(wire
 		(pts
@@ -3898,6 +3898,16 @@
 			(type default)
 		)
 		(uuid "649a98dd-5133-4ee8-b5db-82e96460ac0b")
+	)
+	(wire
+		(pts
+			(xy 198.12 93.98) (xy 198.12 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ae94b5-c733-4412-976e-36ad537735a0")
 	)
 	(wire
 		(pts
@@ -4011,6 +4021,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 93.98) (xy 198.12 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "883dcb43-baff-4300-a4b9-267027386b16")
+	)
+	(wire
+		(pts
 			(xy 149.86 74.93) (xy 149.86 81.28)
 		)
 		(stroke
@@ -4031,23 +4051,13 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 92.71) (xy 198.12 93.98)
+			(xy 96.52 101.6) (xy 96.52 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "92698c7c-2945-4fb9-853d-9d0d88dc12e4")
-	)
-	(wire
-		(pts
-			(xy 198.12 97.79) (xy 198.12 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94b08e17-f1cf-4b4d-a05e-a216fb4db460")
+		(uuid "8c9de7aa-259e-4d69-8a88-0dddd7dc0b81")
 	)
 	(wire
 		(pts
@@ -4171,6 +4181,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 102.87) (xy 191.77 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf699bd4-ec91-44d7-b120-3a2aad5b2192")
+	)
+	(wire
+		(pts
 			(xy 66.04 87.63) (xy 67.31 87.63)
 		)
 		(stroke
@@ -4191,23 +4211,13 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 105.41) (xy 198.12 105.41)
+			(xy 83.82 101.6) (xy 83.82 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c89d7ae7-c499-4340-9f5b-c904fab05c28")
-	)
-	(wire
-		(pts
-			(xy 198.12 93.98) (xy 198.12 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3caf8f6-114d-483c-9399-0ee201855f8c")
+		(uuid "d5dca390-bad7-4771-b669-0623a7840f7c")
 	)
 	(wire
 		(pts
@@ -4369,16 +4379,6 @@
 		)
 		(uuid "58928318-2dee-4626-ab3a-ff81bd6a460d")
 	)
-	(label "SN"
-		(at 93.98 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6264bfbb-44e9-4af5-9c74-63d398a532d2")
-	)
 	(label "SP"
 		(at 93.98 99.06 0)
 		(effects
@@ -4519,16 +4519,6 @@
 		)
 		(uuid "f50171f7-331f-47ec-a748-c9db3a4c5dc3")
 	)
-	(label "SN"
-		(at 193.04 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fd4504e0-5e11-4930-afd6-348d6bc06fdb")
-	)
 	(hierarchical_label "nSLEEP"
 		(shape input)
 		(at 67.31 85.09 0)
@@ -4641,7 +4631,7 @@
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:R")
-		(at 198.12 101.6 0)
+		(at 191.77 97.79 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4649,10 +4639,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "16104d8d-f4b6-48c4-a617-ab831e4e4452")
 		(property "Reference" "R16"
-			(at 200.66 100.3299 0)
+			(at 192.786 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4663,7 +4652,7 @@
 			)
 		)
 		(property "Value" "50m"
-			(at 200.66 102.8699 0)
+			(at 192.786 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4674,7 +4663,7 @@
 			)
 		)
 		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 196.342 101.6 90)
+			(at 189.992 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4685,7 +4674,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 101.6 0)
+			(at 191.77 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4696,7 +4685,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 198.12 101.6 0)
+			(at 191.77 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4733,7 +4722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1eca80ee-6772-4939-b2ac-7b43af163e7e")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR046"
 			(at 160.02 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4793,7 +4782,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR042")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5057,7 +5046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2afbd2f2-f93c-46a5-b98f-3ecac71b19e7")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR037"
 			(at 66.04 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5117,7 +5106,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR033")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -5135,7 +5124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f6b8dbb-b7b5-4344-8d2e-ea914ddad59d")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR042"
 			(at 137.16 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5195,7 +5184,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR038")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -5549,7 +5538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b8ace62-e9d1-4c06-a400-5da308ca4b3e")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR036"
 			(at 66.04 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -5609,7 +5598,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR032")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -5626,7 +5615,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e48a96b-e12a-498c-b796-f0c5c61c45fb")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR050"
 			(at 198.12 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5686,7 +5675,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR045")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -5704,7 +5693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f05c3af-d705-4c1c-a45c-dfc48f87c88e")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR041"
 			(at 137.16 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -5764,7 +5753,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR037")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -5772,7 +5761,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 83.82 100.33 0)
+		(at 83.82 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5780,10 +5769,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6be8e8b7-d021-4f30-b451-9da45f776f5c")
-		(property "Reference" "#PWR036"
-			(at 83.82 106.68 0)
+		(property "Reference" "#PWR040"
+			(at 83.82 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5804,7 +5792,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 100.33 0)
+			(at 83.82 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5815,7 +5803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 100.33 0)
+			(at 83.82 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5826,7 +5814,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 100.33 0)
+			(at 83.82 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5842,7 +5830,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR036")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -6185,7 +6173,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "769d18cd-ffed-4918-8b7b-1f727137128c")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR044"
 			(at 149.86 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6245,7 +6233,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR040")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -6263,7 +6251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a2b68df-995a-4af9-ade1-e7c506f5ff20")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR038"
 			(at 76.2 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6323,7 +6311,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR034")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -6341,7 +6329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b7838c8-2e87-4191-b2f2-594128fa176a")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR043"
 			(at 143.51 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6401,7 +6389,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR039")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -6502,7 +6490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80b55424-e708-4bbb-a3c4-247f315ea0ad")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR045"
 			(at 158.75 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6562,7 +6550,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR041")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -6662,7 +6650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92646924-0ea2-4351-9d5b-52847dd42779")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR047"
 			(at 168.91 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6722,7 +6710,84 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR043")
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 191.77 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aaf24045-1a06-43c4-bfbf-cc82b3730a1c")
+		(property "Reference" "#PWR049"
+			(at 191.77 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 191.77 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 191.77 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b304e850-8af1-472a-9fe6-94d4466fcd60")
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -6822,7 +6887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6b2697f-bfc5-4de3-a68a-b54ae266ffe3")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR039"
 			(at 76.2 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6882,7 +6947,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR035")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -7277,7 +7342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb49c1f0-c7c4-4df2-91d6-20f1d78caa1b")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR048"
 			(at 168.91 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7337,7 +7402,7 @@
 		(instances
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/f3e80f5b-ef7e-41ed-b057-32d755dc9014"
-					(reference "#PWR044")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
