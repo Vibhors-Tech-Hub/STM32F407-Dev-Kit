@@ -1651,6 +1651,14 @@
 		(uuid "ef33cd38-0b7e-46a3-84f6-0e5299d536a4")
 	)
 	(no_connect
+		(at 81.28 96.52)
+		(uuid "254a4c25-a069-474e-b9e2-5af1f877337b")
+	)
+	(no_connect
+		(at 81.28 104.14)
+		(uuid "67408f57-999c-41d2-a306-a8eca67c218f")
+	)
+	(no_connect
 		(at 81.28 109.22)
 		(uuid "9a59f119-4962-4765-927b-d5321eb59dee")
 	)
@@ -2068,7 +2076,27 @@
 		)
 		(uuid "f935e32e-483d-4c29-826d-42b9f09bccd4")
 	)
-	(label "SENSOR_PIN2"
+	(label "AIN2"
+		(at 163.83 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "172fa0a1-37d8-4e83-887d-9e2db6bbe51c")
+	)
+	(label "AIN1"
+		(at 163.83 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ee3d939-3fa9-4b45-9e1c-d98bc6f12501")
+	)
+	(label "SENSOR_PIN1"
 		(at 208.28 100.33 0)
 		(effects
 			(font
@@ -2098,17 +2126,7 @@
 		)
 		(uuid "78508305-7778-4783-9287-f734f11f6a54")
 	)
-	(label "AIN1"
-		(at 163.83 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "89c4d0fe-d83b-45a1-a06d-be4a097e50a8")
-	)
-	(label "SENSOR_PIN1"
+	(label "SENSOR_PIN2"
 		(at 208.28 97.79 0)
 		(effects
 			(font
@@ -2117,16 +2135,6 @@
 			(justify left bottom)
 		)
 		(uuid "92001930-d58d-4ba4-959f-d210bc42000f")
-	)
-	(label "AIN2"
-		(at 163.83 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e808bb44-96d1-484f-be82-43bea0ca7dc4")
 	)
 	(hierarchical_label "SCL"
 		(shape input)
