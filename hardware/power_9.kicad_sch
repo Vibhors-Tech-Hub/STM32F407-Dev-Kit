@@ -1957,6 +1957,12 @@
 		(uuid "ce421ba5-5d53-46b6-a6ae-536a79b19189")
 	)
 	(junction
+		(at 171.45 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db4a0f65-05c8-4c0d-a984-89b3a187396d")
+	)
+	(junction
 		(at 113.03 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2051,6 +2057,16 @@
 			(type default)
 		)
 		(uuid "16da81bd-53a6-436e-a1a6-723dee79145b")
+	)
+	(wire
+		(pts
+			(xy 171.45 66.04) (xy 181.61 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b03d746-70e8-4de9-873f-f6ab2d53f46c")
 	)
 	(wire
 		(pts
@@ -2254,7 +2270,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 69.85) (xy 78.74 69.85)
+			(xy 80.01 69.85) (xy 78.74 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2502,25 +2518,27 @@
 		)
 		(uuid "fe5ead13-6447-44ad-8a7b-408839bd472d")
 	)
-	(label "SHEILD"
-		(at 163.83 66.04 0)
+	(hierarchical_label "SHEILD"
+		(shape input)
+		(at 181.61 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "1331a4d9-79b8-41a2-b2a8-354b066f166f")
+		(uuid "eebc46db-592e-444f-9269-a8198b8453ce")
 	)
-	(label "SHEILD"
-		(at 86.36 69.85 180)
+	(hierarchical_label "SHEILD"
+		(shape input)
+		(at 80.01 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left)
 		)
-		(uuid "32196149-4a2f-4c15-9846-9af11a0162ea")
+		(uuid "fe9e43eb-3ef3-4d82-8471-9d8fad8678d4")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -5720,90 +5738,6 @@
 		)
 	)
 	(symbol
-		(lib_id "STM32F407 Dev Kit Library:Screw_Terminal_01x03")
-		(at 73.66 69.85 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eb7b4d35-ee5f-44ee-b9bf-d24c7df7c246")
-		(property "Reference" "J11"
-			(at 73.66 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TBC 2.54mm 10A"
-			(at 73.66 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "STM32F407 Dev Kit Library:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal"
-			(at 73.66 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 73.66 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a1ddbbef-002a-44ec-b1f1-1c1d48b906c7")
-		)
-		(pin "3"
-			(uuid "52319789-98b9-4774-9e45-4a08ae2c59b0")
-		)
-		(pin "1"
-			(uuid "5450ad40-73cc-4e0a-9911-9168508f6f0e")
-		)
-		(instances
-			(project "STM32F407 Dev Kit"
-				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/4ed455fe-d27e-4e36-92a6-b54624a52e8d"
-					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 228.6 130.81 0)
 		(mirror y)
@@ -5877,6 +5811,88 @@
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/4ed455fe-d27e-4e36-92a6-b54624a52e8d"
 					(reference "#PWR0137")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "STM32F407 Dev Kit Library:Screw_Terminal_01x03")
+		(at 73.66 69.85 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5ff71e7-29e0-4ac3-b882-b62d8ca2a087")
+		(property "Reference" "J11"
+			(at 73.66 61.722 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TBC 2.54mm 10A"
+			(at 73.66 64.008 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "STM32F407 Dev Kit Library:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal"
+			(at 73.66 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 73.66 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d544b1ef-6f25-431e-b494-47dbd549196c")
+		)
+		(pin "3"
+			(uuid "8db0e3d4-f7ba-487a-9141-cd7279a9b0db")
+		)
+		(pin "1"
+			(uuid "ef2cfc18-f6ff-429b-8860-fcb643087342")
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/4ed455fe-d27e-4e36-92a6-b54624a52e8d"
+					(reference "J11")
 					(unit 1)
 				)
 			)
