@@ -2796,6 +2796,12 @@
 		(uuid "cfc1a502-ddc0-4c9c-b7b4-e0ff800d50e9")
 	)
 	(junction
+		(at 207.01 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d37e56a5-6693-4849-84f6-271068bedfb5")
+	)
+	(junction
 		(at 110.49 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3896,6 +3902,16 @@
 			(type default)
 		)
 		(uuid "effc8eff-8636-492c-a69b-61ccc13acbd9")
+	)
+	(wire
+		(pts
+			(xy 207.01 40.64) (xy 207.01 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe4188ef-c894-4fa0-a674-8f64df093953")
 	)
 	(wire
 		(pts
@@ -5135,6 +5151,84 @@
 			(project "STM32F407 Dev Kit"
 				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 207.01 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48394cfe-05c6-4142-9b26-badeeafb483c")
+		(property "Reference" "#PWR0138"
+			(at 207.01 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 207.01 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 207.01 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9267fc34-0b7a-4764-a0c0-fe5772053b86")
+		)
+		(instances
+			(project "STM32F407 Dev Kit"
+				(path "/f3d27387-fbda-4c9d-aea0-93d92d34cd17/6f0c22b1-7361-42cd-874f-7f49f54e5538"
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
