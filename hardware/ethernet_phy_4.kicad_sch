@@ -6130,7 +6130,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "STM32F407 Dev Kit Library:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "STM32F407 Dev Kit Library:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 113.03 127 0)
 			(hide yes)
 			(show_name no)
@@ -7692,7 +7692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "STM32F407 Dev Kit Library:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "STM32F407 Dev Kit Library:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 105.41 127 0)
 			(hide yes)
 			(show_name no)
