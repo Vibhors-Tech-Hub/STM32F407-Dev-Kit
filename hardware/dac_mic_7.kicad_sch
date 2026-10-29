@@ -4043,104 +4043,221 @@
 		)
 		(uuid "fe117c04-123c-4226-90c0-62835e14f0a6")
 	)
-	(hierarchical_label "CS43L22_RST"
+	(global_label "MIC_DOUT"
+		(shape input)
+		(at 238.76 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "481916c4-19c6-40d1-91d9-f34ffc8fc921")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.5824 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CS43L22_SDIN"
+		(shape input)
+		(at 97.79 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "92685597-f1ef-4adb-ab5e-a7c2990608a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.0768 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CS43L22_LRCK"
+		(shape input)
+		(at 97.79 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96ba6104-fcdd-49f3-a138-40507292275a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.6535 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 80.01 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8c6c7fd-aeba-4216-89fc-a60a7e61cf21")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.5172 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MIC_CLK"
+		(shape input)
+		(at 238.76 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bcdcd268-3f7d-4283-8eb6-cc07c3be14eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.9129 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 80.01 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bfcf4286-ac30-442b-bc9d-9d5e19570ee3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.4567 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CS43L22_SCLK"
+		(shape input)
+		(at 97.79 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c7ef24d3-e60b-41b5-afbb-4b842bae3d83")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.714 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "CS43L22_RST"
 		(shape input)
 		(at 121.92 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "2c027869-abff-423b-8445-fd2231aab0d3")
-	)
-	(hierarchical_label "CS43L22_SCLK"
-		(shape input)
-		(at 97.79 55.88 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "f12dc12e-9c20-42dc-90a4-9d5a32e60dd1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 137.6655 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
-			(justify right)
 		)
-		(uuid "4b88315a-e5d6-4b39-9a29-aeff00daacde")
 	)
-	(hierarchical_label "CS43L22_SDIN"
-		(shape input)
-		(at 97.79 58.42 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5bf78c11-35b4-44c4-a402-03dd44556300")
-	)
-	(hierarchical_label "SDA"
-		(shape input)
-		(at 80.01 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5effb28b-c210-4598-b50f-be85f3fbf5a0")
-	)
-	(hierarchical_label "CS43L22_LRCK"
-		(shape input)
-		(at 97.79 60.96 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7e692a28-17a4-406d-8e89-165bb50e4718")
-	)
-	(hierarchical_label "SCL"
-		(shape input)
-		(at 80.01 82.55 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a0f1fc59-7221-4f04-adad-377917df9524")
-	)
-	(hierarchical_label "MIC_CLK"
-		(shape input)
-		(at 238.76 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a132df6c-dfd8-4207-943a-4e2207cb42dd")
-	)
-	(hierarchical_label "CS43L22_MCLK"
+	(global_label "CS43L22_MCLK"
 		(shape input)
 		(at 97.79 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "ce5b30a2-511c-468d-b298-2b13078f9aca")
-	)
-	(hierarchical_label "MIC_DOUT"
-		(shape input)
-		(at 238.76 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "f6893678-a30e-414c-aa19-3dbc0daeb571")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.4721 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
-			(justify right)
 		)
-		(uuid "d9ceaca6-f64e-4aa4-86ea-98b06253527a")
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:C")
