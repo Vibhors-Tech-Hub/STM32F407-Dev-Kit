@@ -4371,12 +4371,12 @@
 		(uuid "ef526c1a-047e-4818-b6bf-c1564b7da8ef")
 	)
 	(no_connect
-		(at 130.81 66.04)
-		(uuid "09556904-90cf-4a91-a2c3-d48bd43f66af")
+		(at 130.81 157.48)
+		(uuid "04409eec-7a3c-49c8-a69d-b28504b34dd4")
 	)
 	(no_connect
-		(at 130.81 160.02)
-		(uuid "0a3bdb30-94c7-4e2b-85f6-ca75929e0dd7")
+		(at 130.81 66.04)
+		(uuid "09556904-90cf-4a91-a2c3-d48bd43f66af")
 	)
 	(no_connect
 		(at 80.01 144.78)
@@ -4505,10 +4505,6 @@
 	(no_connect
 		(at 130.81 88.9)
 		(uuid "d718ab61-b51c-4b5f-ae08-358495995884")
-	)
-	(no_connect
-		(at 130.81 162.56)
-		(uuid "d8d63acf-7c1a-472f-927d-47bf793fada9")
 	)
 	(no_connect
 		(at 80.01 78.74)
@@ -4986,6 +4982,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 162.56) (xy 132.08 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "512a2361-a1c8-41bd-ad09-59f1a5c0cfea")
+	)
+	(wire
+		(pts
 			(xy 66.04 60.96) (xy 80.01 60.96)
 		)
 		(stroke
@@ -5176,7 +5182,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 157.48) (xy 130.81 157.48)
+			(xy 132.08 160.02) (xy 130.81 160.02)
 		)
 		(stroke
 			(width 0)
@@ -6254,9 +6260,9 @@
 			)
 		)
 	)
-	(global_label "MIC_CLK"
+	(global_label "MIC_DOUT"
 		(shape input)
-		(at 132.08 157.48 0)
+		(at 132.08 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6266,7 +6272,7 @@
 		)
 		(uuid "1e57e92f-c108-476a-af3a-1a6ff1fcddfb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.9271 157.48 0)
+			(at 144.2576 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6747,6 +6753,30 @@
 		(uuid "83787531-0e88-4c3f-91ef-55a538aec06d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 140.9918 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "MIC_CLK"
+		(shape input)
+		(at 132.08 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85e2273c-18a4-4a1d-a703-a8f3e84f76a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.9271 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
