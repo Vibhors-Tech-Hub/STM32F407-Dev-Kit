@@ -531,7 +531,7 @@
         "diff_pair_width": 0.14,
         "name": "ETH100",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.14,
         "tuning_profile": "",
@@ -542,12 +542,25 @@
         "clearance": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
         "via_diameter": 0.8,
         "via_drill": 0.4
+      },
+      {
+        "clearance": 0.0254,
+        "diff_pair_gap": 0.0254,
+        "diff_pair_width": 0.203,
+        "name": "USB90",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.203,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -583,6 +596,10 @@
       {
         "netclass": "Power",
         "pattern": "SHEILD"
+      },
+      {
+        "netclass": "USB90",
+        "pattern": "*USB_*"
       }
     ]
   },
