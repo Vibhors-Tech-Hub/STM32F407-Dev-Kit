@@ -6620,6 +6620,30 @@
 			)
 		)
 	)
+	(global_label "SCL"
+		(shape input)
+		(at 160.02 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6abb6312-c3d6-46e9-9a8f-e38aac1f6adf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.5128 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "nFAULT"
 		(shape input)
 		(at 78.74 154.94 180)
@@ -6753,6 +6777,30 @@
 		(uuid "83787531-0e88-4c3f-91ef-55a538aec06d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 140.9918 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 160.02 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "842ed4d3-5f58-4696-b7b8-47adaf58a340")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.5733 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7003,28 +7051,6 @@
 				(justify left)
 			)
 		)
-	)
-	(hierarchical_label "SDA"
-		(shape input)
-		(at 160.02 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "442696ff-39bd-429c-bbfa-ea19ea09f8a0")
-	)
-	(hierarchical_label "SCL"
-		(shape input)
-		(at 160.02 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dc8e8944-9d3d-4df8-9771-f513e41ea8f1")
 	)
 	(symbol
 		(lib_id "power:+3V3")
