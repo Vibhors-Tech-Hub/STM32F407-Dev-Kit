@@ -609,7 +609,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3D/STM32F407 Dev Kit.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
