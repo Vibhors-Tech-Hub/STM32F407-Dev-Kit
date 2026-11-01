@@ -5034,7 +5034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "STM32F407 Dev Kit Library:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "STM32F407 Dev Kit Library:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 169.8752 88.9 0)
 			(hide yes)
 			(show_name no)
