@@ -7767,7 +7767,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "3.3k"
 			(at 107.442 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9698,7 +9698,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "3.3k"
 			(at 115.316 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)

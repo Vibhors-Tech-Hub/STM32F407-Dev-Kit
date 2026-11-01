@@ -2190,7 +2190,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 74.93) (xy 163.83 73.66)
+			(xy 158.75 74.93) (xy 158.75 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2380,7 +2380,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 66.04) (xy 171.45 66.04)
+			(xy 158.75 66.04) (xy 171.45 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4883,7 +4883,7 @@
 	)
 	(symbol
 		(lib_id "STM32F407 Dev Kit Library:R")
-		(at 163.83 69.85 0)
+		(at 158.75 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4893,7 +4893,7 @@
 		(dnp no)
 		(uuid "9ebad28b-104e-4cf9-959a-f187641c3ba4")
 		(property "Reference" "R26"
-			(at 165.354 68.58 0)
+			(at 160.274 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4903,8 +4903,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
-			(at 165.354 71.12 0)
+		(property "Value" "1M 2kV"
+			(at 160.274 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4915,7 +4915,7 @@
 			)
 		)
 		(property "Footprint" "STM32F407 Dev Kit Library:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 162.052 69.85 90)
+			(at 156.972 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4926,7 +4926,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 69.85 0)
+			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4937,7 +4937,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 163.83 69.85 0)
+			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5599,7 +5599,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 163.83 74.93 0)
+		(at 158.75 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5610,7 +5610,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3a643c4-6994-424f-8994-32a4dccaa525")
 		(property "Reference" "#PWR0129"
-			(at 163.83 81.28 0)
+			(at 158.75 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5621,7 +5621,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 163.83 80.01 0)
+			(at 158.75 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5631,7 +5631,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 74.93 0)
+			(at 158.75 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5642,7 +5642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 74.93 0)
+			(at 158.75 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5653,7 +5653,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 163.83 74.93 0)
+			(at 158.75 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
